@@ -1,3 +1,4 @@
+/*
 const express = require('express');
 const router = express.Router()
 
@@ -8,3 +9,4 @@ router.get('/', indexController.getUserName);
 
 // export
 module.exports = router;
+*/
