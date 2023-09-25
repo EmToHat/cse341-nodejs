@@ -1,3 +1,4 @@
+/*
 const express = require('express');
 
 const app = express();
@@ -13,3 +14,4 @@ app.use('/', indexRoute);
 app.listen(port, () => {
     console.log(`App is listening on ${port}`)
 })
+*/
