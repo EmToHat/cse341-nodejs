@@ -1,3 +1,4 @@
+/*
 let firstName = "Daniel";
 let lastName = "Torres";
 
@@ -6,3 +7,4 @@ const getUserName = (req, res) => {
   };
   
 module.exports = { getUserName };
+*/
