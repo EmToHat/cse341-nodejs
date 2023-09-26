@@ -5,7 +5,7 @@ const parser = require('body-parser');
 //const MongoClient = require('mongodb').MongoClient;
 const mongodb = require('./models/connect');
 
-const port = process.env.port || 3000;
+const port = process.env.port || 10000;
 const app = express();
 
 // import routes
