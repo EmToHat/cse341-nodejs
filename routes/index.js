@@ -1,12 +1,10 @@
-/*
 const express = require('express');
+
+//const indexController = require('../controllers/index');
+
 const router = express.Router()
 
-const indexController = require('../controllers/index');
-
-router.get('/', indexController.getUserName);
-
+router.use('/contacts', require('./contacts'));
 
 // export
 module.exports = router;
-*/
